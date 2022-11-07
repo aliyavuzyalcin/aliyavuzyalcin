@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on creating better world for the next generations.
 - 📫 How to reach me: via e-mail : aliyavuzyalcin@gmail.com or via Twitter : kisachestermavi
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Tonyukuk.png" alt="TryHackMe">
-
-
 <!---
 aliyavuzyalcin/aliyavuzyalcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
