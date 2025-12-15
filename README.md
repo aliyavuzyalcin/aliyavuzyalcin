@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @aliyavuzyalcin
-- 👀 I’m interested in sports, gym, tech and sky.
-- 🌱 I’m currently learning Java, OOP, network and Network Security, Cryptology and Ethical Hacking.
-- 💞️ I’m looking to collaborate on creating better world for the next generations.
-- 📫 How to reach me: via e-mail : aliyavuzyalcin@gmail.com or via Twitter : kisachestermavi
-- :shield: https://tryhackme.com/p/Tonyukuk
+👋 Hey, I'm Yavuz
 
+Started my journey with Java and backend fundamentals.
+Currently focusing on frontend development, with a roadmap toward backend and mobile applications.
 
-<!---
-aliyavuzyalcin/aliyavuzyalcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a foundational background in cybersecurity, information security and approach software with a security-aware mindset.
+
+### Currently Learning
+- HTML, CSS, JavaScript
+- Frontend best practices
+- Mobile & backend fundamentals
+
+⚙️ Code • Analyze • Improve • Secure
